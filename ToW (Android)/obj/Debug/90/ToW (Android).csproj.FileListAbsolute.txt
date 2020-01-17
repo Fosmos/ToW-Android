@@ -51,9 +51,6 @@ C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\values\
 C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\values\styles.xml
 C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\values-v21\styles.xml
 C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable\side_nav_bar.xml
-C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\ic_menu_camera.xml
-C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\ic_menu_gallery.xml
-C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\ic_menu_manage.xml
 C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\ic_menu_send.xml
 C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\ic_menu_share.xml
 C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
@@ -274,3 +271,7 @@ C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\stamp\_Conv
 C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\home.xml
+C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\sub.xml
+C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\devos.xml
+C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\res\drawable-v21\sched.xml

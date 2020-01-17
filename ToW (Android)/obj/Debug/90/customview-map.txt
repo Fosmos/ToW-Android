@@ -31,12 +31,17 @@ item;obj\Debug\90\res\values-v21\styles.xml
 LinearLayout;obj\Debug\90\res\layout\nav_header_main.xml
 menu;obj\Debug\90\res\menu\activity_main_drawer.xml
 menu;obj\Debug\90\res\menu\menu_main.xml
+path;obj\Debug\90\res\drawable-v21\devos.xml
+path;obj\Debug\90\res\drawable-v21\home.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_camera.xml
+path;obj\Debug\90\res\drawable-v21\ic_menu_camera_mod.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_gallery.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_manage.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_send.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_share.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
+path;obj\Debug\90\res\drawable-v21\sched.xml
+path;obj\Debug\90\res\drawable-v21\sub.xml
 paths;C:\Users\erme2\source\repos\ToW (Android)\ToW (Android)\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;obj\Debug\90\res\layout\content_main.xml
 resources;obj\Debug\90\res\values\colors.xml
@@ -52,9 +57,14 @@ style;obj\Debug\90\res\values\styles.xml
 style;obj\Debug\90\res\values-v21\styles.xml
 TextView;obj\Debug\90\res\layout\content_main.xml
 TextView;obj\Debug\90\res\layout\nav_header_main.xml
+vector;obj\Debug\90\res\drawable-v21\devos.xml
+vector;obj\Debug\90\res\drawable-v21\home.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_camera.xml
+vector;obj\Debug\90\res\drawable-v21\ic_menu_camera_mod.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_gallery.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_manage.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_send.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_share.xml
 vector;obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
+vector;obj\Debug\90\res\drawable-v21\sched.xml
+vector;obj\Debug\90\res\drawable-v21\sub.xml
