@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erme2\\source\\repos\\ToW (Android)\\ToW (Android)\\ToW (Android).csproj": {}
+    "D:\\erme2\\Documents\\ToW-Android-\\ToW (Android)\\ToW (Android).csproj": {}
   },
   "projects": {
-    "C:\\Users\\erme2\\source\\repos\\ToW (Android)\\ToW (Android)\\ToW (Android).csproj": {
+    "D:\\erme2\\Documents\\ToW-Android-\\ToW (Android)\\ToW (Android).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erme2\\source\\repos\\ToW (Android)\\ToW (Android)\\ToW (Android).csproj",
+        "projectUniqueName": "D:\\erme2\\Documents\\ToW-Android-\\ToW (Android)\\ToW (Android).csproj",
         "projectName": "ToW (Android)",
-        "projectPath": "C:\\Users\\erme2\\source\\repos\\ToW (Android)\\ToW (Android)\\ToW (Android).csproj",
+        "projectPath": "D:\\erme2\\Documents\\ToW-Android-\\ToW (Android)\\ToW (Android).csproj",
         "packagesPath": "C:\\Users\\erme2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erme2\\source\\repos\\ToW (Android)\\ToW (Android)\\obj\\",
+        "outputPath": "D:\\erme2\\Documents\\ToW-Android-\\ToW (Android)\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\erme2\\AppData\\Roaming\\NuGet\\NuGet.Config",

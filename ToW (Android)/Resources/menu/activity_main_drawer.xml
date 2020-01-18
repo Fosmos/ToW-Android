@@ -22,21 +22,24 @@
             android:title="Subscribe" />
         <item
             android:id="@+id/about"
-            android:icon="@drawable/sched"
+            android:icon="@drawable/about"
             android:title="About Us" />
     </group>
 
-    <item android:title="Communicate">
-        <menu>
-            <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="About the App" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Found a Bug?" />
-        </menu>
-    </item>
+
+  <item>
+    <menu>
+      <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/about_app"
+            android:icon="@drawable/about_app"
+            android:title="About the App" />
+        <item
+            android:id="@+id/bug"
+            android:icon="@drawable/bug"
+            android:title="Found a Bug?" />
+      </group>
+    </menu>
+  </item>
 
 </menu>

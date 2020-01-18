@@ -50,4 +50,25 @@
         android:id="@+id/about"
         android:visibility="gone"/>
 
+    <include
+        layout="@layout/bug"  
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:id="@+id/bug_view" />
+  
+    <include
+        layout="@layout/about"  
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:id="@+id/about_view" />
+
+    <include
+        layout="@layout/settings"
+        android:id="@+id/settings_view"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
 </android.support.design.widget.CoordinatorLayout>
