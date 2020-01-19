@@ -16,6 +16,8 @@ Option 2
 * F5 should build it and deploy it to the device
 * If there are any issues let me know. 
   - I'm new to using GitHub for my own repositories, so I'm a little unsure to how well the pushing and cloning works
+  
+![](https://i.ibb.co/Z8GwhxM/Screenshot-20200118-223913-1.png)
       
 ## Known Issues (It's still a work in progress)
 * It loads pretty slowly (in my opinion), which makes sense since I'm loading several webpages on bootup
