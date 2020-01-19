@@ -23,8 +23,8 @@
 	.section	.rodata..L.str.1,"aMS",%progbits,1
 	.type	.L.str.1, %object
 .L.str.1:
-	.asciz	"com.companyname.tow__android_"
-	.size	.L.str.1, 30
+	.asciz	"com.MustangApps.ToW"
+	.size	.L.str.1, 20
 	.section	.data.application_config,"aw",%progbits
 	.type	application_config, %object
 	.p2align	2
@@ -33,13 +33,13 @@ application_config:
 	/* uses_mono_llvm */
 	.byte	0
 	/* uses_mono_aot */
-	.byte	0
+	.byte	1
 	/* uses_assembly_preload */
 	.byte	1
 	/* is_a_bundled_app */
 	.byte	0
 	/* environment_variable_count */
-	.long	12
+	.long	10
 	/* system_property_count */
 	.long	0
 	/* android_package_name */
@@ -48,7 +48,7 @@ application_config:
 	.section	.rodata..L.str.2,"aMS",%progbits,1
 	.type	.L.str.2, %object
 .L.str.2:
-	.asciz	"0"
+	.asciz	"1"
 	.size	.L.str.2, 2
 	.section	.data.mono_aot_mode_name,"aw",%progbits
 	.global	mono_aot_mode_name
@@ -57,63 +57,53 @@ mono_aot_mode_name:
 	.section	.rodata..L.str.3,"aMS",%progbits,1
 	.type	.L.str.3, %object
 .L.str.3:
-	.asciz	"MONO_DEBUG"
-	.size	.L.str.3, 11
+	.asciz	"MONO_GC_PARAMS"
+	.size	.L.str.3, 15
 	.section	.rodata..L.str.4,"aMS",%progbits,1
 	.type	.L.str.4, %object
 .L.str.4:
-	.asciz	"gen-compact-seq-points"
-	.size	.L.str.4, 23
+	.asciz	"major=marksweep-conc"
+	.size	.L.str.4, 21
 	.section	.rodata..L.str.5,"aMS",%progbits,1
 	.type	.L.str.5, %object
 .L.str.5:
-	.asciz	"MONO_GC_PARAMS"
-	.size	.L.str.5, 15
+	.asciz	"XAMARIN_BUILD_ID"
+	.size	.L.str.5, 17
 	.section	.rodata..L.str.6,"aMS",%progbits,1
 	.type	.L.str.6, %object
 .L.str.6:
-	.asciz	"major=marksweep-conc"
-	.size	.L.str.6, 21
+	.asciz	"d9223d6b-2c1c-4756-bf59-5ae3760ddba0"
+	.size	.L.str.6, 37
 	.section	.rodata..L.str.7,"aMS",%progbits,1
 	.type	.L.str.7, %object
 .L.str.7:
-	.asciz	"XAMARIN_BUILD_ID"
-	.size	.L.str.7, 17
+	.asciz	"XA_HTTP_CLIENT_HANDLER_TYPE"
+	.size	.L.str.7, 28
 	.section	.rodata..L.str.8,"aMS",%progbits,1
 	.type	.L.str.8, %object
 .L.str.8:
-	.asciz	"898b00bf-f222-4e6a-bcc2-5df71a0580a0"
-	.size	.L.str.8, 37
+	.asciz	"Xamarin.Android.Net.AndroidClientHandler"
+	.size	.L.str.8, 41
 	.section	.rodata..L.str.9,"aMS",%progbits,1
 	.type	.L.str.9, %object
 .L.str.9:
-	.asciz	"XA_HTTP_CLIENT_HANDLER_TYPE"
-	.size	.L.str.9, 28
+	.asciz	"XA_TLS_PROVIDER"
+	.size	.L.str.9, 16
 	.section	.rodata..L.str.10,"aMS",%progbits,1
 	.type	.L.str.10, %object
 .L.str.10:
-	.asciz	"Xamarin.Android.Net.AndroidClientHandler"
-	.size	.L.str.10, 41
+	.asciz	"btls"
+	.size	.L.str.10, 5
 	.section	.rodata..L.str.11,"aMS",%progbits,1
 	.type	.L.str.11, %object
 .L.str.11:
-	.asciz	"XA_TLS_PROVIDER"
-	.size	.L.str.11, 16
+	.asciz	"__XA_PACKAGE_NAMING_POLICY__"
+	.size	.L.str.11, 29
 	.section	.rodata..L.str.12,"aMS",%progbits,1
 	.type	.L.str.12, %object
 .L.str.12:
-	.asciz	"btls"
-	.size	.L.str.12, 5
-	.section	.rodata..L.str.13,"aMS",%progbits,1
-	.type	.L.str.13, %object
-.L.str.13:
-	.asciz	"__XA_PACKAGE_NAMING_POLICY__"
-	.size	.L.str.13, 29
-	.section	.rodata..L.str.14,"aMS",%progbits,1
-	.type	.L.str.14, %object
-.L.str.14:
 	.asciz	"LowercaseCrc64"
-	.size	.L.str.14, 15
+	.size	.L.str.12, 15
 	.section	.data.app_environment_variables,"aw",%progbits
 	.type	app_environment_variables, %object
 	.p2align	2
@@ -129,9 +119,7 @@ app_environment_variables:
 	.long	.L.str.10
 	.long	.L.str.11
 	.long	.L.str.12
-	.long	.L.str.13
-	.long	.L.str.14
-	.size	app_environment_variables, 48
+	.size	app_environment_variables, 40
 	.section	.data.app_system_properties,"aw",%progbits
 	.type	app_system_properties, %object
 	.p2align	2

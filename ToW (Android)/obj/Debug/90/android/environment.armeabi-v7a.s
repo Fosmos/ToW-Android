@@ -23,8 +23,8 @@
 	.section	.rodata..L.str.1,"aMS",%progbits,1
 	.type	.L.str.1, %object
 .L.str.1:
-	.asciz	"com.companyname.tow__android_"
-	.size	.L.str.1, 30
+	.asciz	"com.MustangApps.ToW"
+	.size	.L.str.1, 20
 	.section	.data.application_config,"aw",%progbits
 	.type	application_config, %object
 	.p2align	2
@@ -82,7 +82,7 @@ mono_aot_mode_name:
 	.section	.rodata..L.str.8,"aMS",%progbits,1
 	.type	.L.str.8, %object
 .L.str.8:
-	.asciz	"3b7d3c1a-9b74-4d8c-bd4a-24c7182627ff"
+	.asciz	"1c336cbf-1af6-489e-b07a-6e3e510b84f4"
 	.size	.L.str.8, 37
 	.section	.rodata..L.str.9,"aMS",%progbits,1
 	.type	.L.str.9, %object

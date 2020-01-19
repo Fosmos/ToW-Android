@@ -1,6 +1,5 @@
 @string/appbar_scrolling_view_behavior;obj\Debug\90\res\layout\about.xml
 @string/appbar_scrolling_view_behavior;obj\Debug\90\res\layout\bug.xml
-@string/appbar_scrolling_view_behavior;obj\Debug\90\res\layout\content_main.xml
 @string/appbar_scrolling_view_behavior;obj\Debug\90\res\layout\settings.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
@@ -30,10 +29,7 @@ item;obj\Debug\90\res\menu\menu_main.xml
 item;obj\Debug\90\res\values\drawables.xml
 item;obj\Debug\90\res\values\styles.xml
 item;obj\Debug\90\res\values-v21\styles.xml
-LinearLayout;obj\Debug\90\res\layout\about.xml
-LinearLayout;obj\Debug\90\res\layout\layout1.xml
 LinearLayout;obj\Debug\90\res\layout\nav_header_main.xml
-LinearLayout;obj\Debug\90\res\layout\settings.xml
 menu;obj\Debug\90\res\menu\activity_main_drawer.xml
 menu;obj\Debug\90\res\menu\menu_main.xml
 path;obj\Debug\90\res\drawable-v21\about.xml
@@ -41,15 +37,11 @@ path;obj\Debug\90\res\drawable-v21\about_app.xml
 path;obj\Debug\90\res\drawable-v21\bug.xml
 path;obj\Debug\90\res\drawable-v21\devos.xml
 path;obj\Debug\90\res\drawable-v21\home.xml
-path;obj\Debug\90\res\drawable-v21\ic_menu_send.xml
-path;obj\Debug\90\res\drawable-v21\ic_menu_share.xml
-path;obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
 path;obj\Debug\90\res\drawable-v21\sched.xml
 path;obj\Debug\90\res\drawable-v21\sub.xml
 paths;D:\erme2\Documents\ToW-Android-\ToW (Android)\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;obj\Debug\90\res\layout\about.xml
 RelativeLayout;obj\Debug\90\res\layout\bug.xml
-RelativeLayout;obj\Debug\90\res\layout\content_main.xml
 RelativeLayout;obj\Debug\90\res\layout\settings.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\dimens.xml
@@ -64,8 +56,6 @@ style;obj\Debug\90\res\values\styles.xml
 style;obj\Debug\90\res\values-v21\styles.xml
 TextView;obj\Debug\90\res\layout\about.xml
 TextView;obj\Debug\90\res\layout\bug.xml
-TextView;obj\Debug\90\res\layout\content_main.xml
-TextView;obj\Debug\90\res\layout\layout1.xml
 TextView;obj\Debug\90\res\layout\nav_header_main.xml
 TextView;obj\Debug\90\res\layout\settings.xml
 vector;obj\Debug\90\res\drawable-v21\about.xml
@@ -73,8 +63,5 @@ vector;obj\Debug\90\res\drawable-v21\about_app.xml
 vector;obj\Debug\90\res\drawable-v21\bug.xml
 vector;obj\Debug\90\res\drawable-v21\devos.xml
 vector;obj\Debug\90\res\drawable-v21\home.xml
-vector;obj\Debug\90\res\drawable-v21\ic_menu_send.xml
-vector;obj\Debug\90\res\drawable-v21\ic_menu_share.xml
-vector;obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
 vector;obj\Debug\90\res\drawable-v21\sched.xml
 vector;obj\Debug\90\res\drawable-v21\sub.xml

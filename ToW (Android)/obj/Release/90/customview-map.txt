@@ -1,4 +1,6 @@
-@string/appbar_scrolling_view_behavior;obj\Release\90\res\layout\content_main.xml
+@string/appbar_scrolling_view_behavior;obj\Release\90\res\layout\about.xml
+@string/appbar_scrolling_view_behavior;obj\Release\90\res\layout\bug.xml
+@string/appbar_scrolling_view_behavior;obj\Release\90\res\layout\settings.xml
 adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\ic_launcher.xml
 adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 android.support.design.widget.AppBarLayout;obj\Release\90\res\layout\app_bar_main.xml
@@ -21,6 +23,7 @@ gradient;obj\Release\90\res\drawable\side_nav_bar.xml
 group;obj\Release\90\res\menu\activity_main_drawer.xml
 ImageView;obj\Release\90\res\layout\nav_header_main.xml
 include;obj\Release\90\res\layout\activity_main.xml
+include;obj\Release\90\res\layout\app_bar_main.xml
 item;obj\Release\90\res\menu\activity_main_drawer.xml
 item;obj\Release\90\res\menu\menu_main.xml
 item;obj\Release\90\res\values\drawables.xml
@@ -29,15 +32,17 @@ item;obj\Release\90\res\values-v21\styles.xml
 LinearLayout;obj\Release\90\res\layout\nav_header_main.xml
 menu;obj\Release\90\res\menu\activity_main_drawer.xml
 menu;obj\Release\90\res\menu\menu_main.xml
+path;obj\Release\90\res\drawable-v21\about.xml
+path;obj\Release\90\res\drawable-v21\about_app.xml
+path;obj\Release\90\res\drawable-v21\bug.xml
 path;obj\Release\90\res\drawable-v21\devos.xml
 path;obj\Release\90\res\drawable-v21\home.xml
-path;obj\Release\90\res\drawable-v21\ic_menu_send.xml
-path;obj\Release\90\res\drawable-v21\ic_menu_share.xml
-path;obj\Release\90\res\drawable-v21\ic_menu_slideshow.xml
 path;obj\Release\90\res\drawable-v21\sched.xml
 path;obj\Release\90\res\drawable-v21\sub.xml
 paths;D:\erme2\Documents\ToW-Android-\ToW (Android)\obj\Release\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-RelativeLayout;obj\Release\90\res\layout\content_main.xml
+RelativeLayout;obj\Release\90\res\layout\about.xml
+RelativeLayout;obj\Release\90\res\layout\bug.xml
+RelativeLayout;obj\Release\90\res\layout\settings.xml
 resources;obj\Release\90\res\values\colors.xml
 resources;obj\Release\90\res\values\dimens.xml
 resources;obj\Release\90\res\values\drawables.xml
@@ -49,12 +54,14 @@ shape;obj\Release\90\res\drawable\side_nav_bar.xml
 string;obj\Release\90\res\values\strings.xml
 style;obj\Release\90\res\values\styles.xml
 style;obj\Release\90\res\values-v21\styles.xml
-TextView;obj\Release\90\res\layout\content_main.xml
+TextView;obj\Release\90\res\layout\about.xml
+TextView;obj\Release\90\res\layout\bug.xml
 TextView;obj\Release\90\res\layout\nav_header_main.xml
+TextView;obj\Release\90\res\layout\settings.xml
+vector;obj\Release\90\res\drawable-v21\about.xml
+vector;obj\Release\90\res\drawable-v21\about_app.xml
+vector;obj\Release\90\res\drawable-v21\bug.xml
 vector;obj\Release\90\res\drawable-v21\devos.xml
 vector;obj\Release\90\res\drawable-v21\home.xml
-vector;obj\Release\90\res\drawable-v21\ic_menu_send.xml
-vector;obj\Release\90\res\drawable-v21\ic_menu_share.xml
-vector;obj\Release\90\res\drawable-v21\ic_menu_slideshow.xml
 vector;obj\Release\90\res\drawable-v21\sched.xml
 vector;obj\Release\90\res\drawable-v21\sub.xml
