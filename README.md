@@ -1,9 +1,9 @@
 # ToW
 
-![](https://i.ibb.co/HzPkvZT/To-W-preview.png)
-
 WebView app of the **Thoughts of Worship** website, which can be found here: https://thoughtsofworship.weebly.com/
 *Note* This is the second iteration of the app, as I lost the files to the first one (a reason for me putting this one on GitHub)
+
+![](https://i.ibb.co/HzPkvZT/To-W-preview.png)
 
 ## To run it, there's two options
 Option 1
